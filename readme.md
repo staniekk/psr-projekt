@@ -1,4 +1,4 @@
-\# Synchronizacja zegarów w systemach rozproszonych
+# Synchronizacja zegarów w systemach rozproszonych
 
 
 
